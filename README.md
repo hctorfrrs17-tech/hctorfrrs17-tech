@@ -2,15 +2,16 @@
 
 # Hey, I’m Héctor 👋
 
-### Building **open-source tools** and **software**.
+### Building **open-source projects** and **useful software for everyday life**.
 
 <p>
-  <a href="https://github.com/hctorfrrs17-tech?tab=repositories"><img src="https://img.shields.io/badge/Focus-Privacy--First-0ea5e9?style=for-the-badge&logo=shield&logoColor=white" alt="Privacy-first focus" /></a>
+  <a href="https://github.com/hctorfrrs17-tech?tab=repositories"><img src="https://img.shields.io/badge/Open--Source-3DA639?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" /></a>
+  <a href="https://github.com/hctorfrrs17-tech?tab=repositories"><img src="https://img.shields.io/badge/Building-Useful%20Software-F59E0B?style=for-the-badge&logo=rocket&logoColor=white" alt="Building useful software" /></a>
   <a href="https://github.com/hctorfrrs17-tech?tab=repositories"><img src="https://img.shields.io/badge/Building-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Building with TypeScript" /></a>
   <a href="https://github.com/hctorfrrs17-tech"><img src="https://komarev.com/ghpvc/?username=hctorfrrs17-tech&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" /></a>
 </p>
 
-> I like turning complex workflows into **simple, safe, and useful** tools.
+> I enjoy turning everyday problems into **simple, useful, and well-crafted** software.
 
 </div>
 
@@ -24,7 +25,7 @@
 
 An open-source, local-first Chrome extension that turns safe browser workflows into polished visual PDF guides.
 
-[![Chrome extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/hctorfrrs17-tech/ClickTrail) [![Local-first privacy](https://img.shields.io/badge/Local--First-Privacy-0ea5e9?style=flat-square&logo=shield&logoColor=white)](https://github.com/hctorfrrs17-tech/ClickTrail) [![MIT license](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](https://github.com/hctorfrrs17-tech/ClickTrail/blob/main/LICENSE)
+[![Chrome extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/hctorfrrs17-tech/ClickTrail) [![Visual PDF guides](https://img.shields.io/badge/Visual-PDF%20Guides-F59E0B?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/hctorfrrs17-tech/ClickTrail) [![MIT license](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](https://github.com/hctorfrrs17-tech/ClickTrail/blob/main/LICENSE)
 
 [Explore the project →](https://github.com/hctorfrrs17-tech/ClickTrail)
 
@@ -38,13 +39,13 @@ An authorization-gated, defensive security posture review for modern web apps—
 
 [Explore the project →](https://github.com/hctorfrrs17-tech/WebScan)
 
-## 🧠 What I’m building for
+## 🧠 What I build for
 
 | Principle | What it means here |
 | --- | --- |
-| 🔒 **Privacy by default** | Sensitive data should stay local whenever possible. |
-| 🛟 **Safety before hype** | Security tools need explicit boundaries, owner authorization, and transparent limits. |
-| ✨ **Useful polish** | Good tooling should feel clear, visual, and easy to use—not just technically correct. |
+| 🌍 **Open Source** | I share projects openly so people can use them, learn from them, and help improve them. |
+| ⚙️ **Everyday usefulness** | Software should solve real problems and make common tasks easier. |
+| ✨ **Thoughtful polish** | Good tools should feel clear, visual, and easy to use—not just technically correct. |
 
 ## 🧰 Toolbox
 
@@ -53,12 +54,12 @@ An authorization-gated, defensive security posture review for modern web apps—
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
-  <img src="https://img.shields.io/badge/Web_Security-16a34a?style=for-the-badge&logo=owasp&logoColor=white" alt="Web Security" />
+  <img src="https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
 </p>
 
 ## 📌 Right now
 
-I’m improving the engineering behind these projects: better automated tests, safer defaults, clearer docs, and product experiences that make complex work easier to understand.
+I’m building and improving open-source projects: useful tools, clearer docs, stronger engineering, and product experiences that make everyday work easier.
 
 ## 📈 GitHub activity
 
