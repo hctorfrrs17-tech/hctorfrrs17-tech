@@ -56,17 +56,8 @@ An authorization-gated, defensive security posture review for modern web apps—
   <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
   <img src="https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
 </p>
+.
 
-## 📌 Right now
-
-I’m building and improving open-source projects: useful tools, clearer docs, stronger engineering, and product experiences that make everyday work easier.
-
-## 📈 GitHub activity
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hctorfrrs17-tech&show_icons=true&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=334155&bg_color=ffffff" alt="GitHub statistics for hctorfrrs17-tech" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hctorfrrs17-tech&layout=compact&hide_border=true&title_color=0ea5e9&text_color=334155&bg_color=ffffff" alt="Most used languages" />
-</p>
 
 <div align="center">
 
