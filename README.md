@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I’m Héctor 👋
+# Hey, I’m hctor.tech 👋
 
 ### Building **open-source projects** and **useful software for everyday life**.
 
@@ -30,7 +30,7 @@ An open-source, local-first Chrome extension that turns safe browser workflows i
 
 [![WebScan visual preview](https://raw.githubusercontent.com/hctorfrrs17-tech/WebScan/main/assets/webscan-social-preview.jpg)](https://github.com/hctorfrrs17-tech/WebScan)
 
-An authorization-gated, defensive security posture review for modern web apps—with clear limits and actionable remediation.
+15 Defensive web security agents that test and improve your website's security extreme to extreme.
 
 [![Defensive security](https://img.shields.io/badge/Security-Defensive-16a34a?style=flat-square&logo=owasp&logoColor=white)](https://github.com/hctorfrrs17-tech/WebScan) [![Fifteen review areas](https://img.shields.io/badge/15-Review%20Areas-f59e0b?style=flat-square)](https://github.com/hctorfrrs17-tech/WebScan) [![PDF reports](https://img.shields.io/badge/Reports-PDF-ef4444?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/hctorfrrs17-tech/WebScan)
 
