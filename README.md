@@ -2,7 +2,7 @@
 
 # Hey, I’m Héctor 👋
 
-### Building **privacy-first developer tools** and **defensive web-security software**.
+### Building **open-source tools** and **software**.
 
 <p>
   <a href="https://github.com/hctorfrrs17-tech?tab=repositories"><img src="https://img.shields.io/badge/Focus-Privacy--First-0ea5e9?style=for-the-badge&logo=shield&logoColor=white" alt="Privacy-first focus" /></a>
@@ -69,8 +69,8 @@ I’m improving the engineering behind these projects: better automated tests, s
 
 <div align="center">
 
-### Thanks for stopping by ✨
+### CONTACT 📩
 
-If something here helps you, inspires an idea, or deserves an improvement, feel free to open an issue or start a discussion on a project.
+hctor.tech@outlook.com 
 
 </div>
