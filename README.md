@@ -11,9 +11,6 @@
   <a href="https://github.com/hctorfrrs17-tech"><img src="https://komarev.com/ghpvc/?username=hctorfrrs17-tech&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" /></a>
 </p>
 
-> I enjoy turning everyday problems into **simple, useful, and well-crafted** software.
-
-</div>
 
 ---
 
@@ -56,7 +53,7 @@ An authorization-gated, defensive security posture review for modern web apps—
   <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
   <img src="https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
 </p>
-.
+
 
 
 <div align="center">
