@@ -7,7 +7,6 @@
 <p>
   <a href="https://github.com/hctorfrrs17-tech?tab=repositories"><img src="https://img.shields.io/badge/Open--Source-3DA639?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" /></a>
   <a href="https://github.com/hctorfrrs17-tech?tab=repositories"><img src="https://img.shields.io/badge/Building-Useful%20Software-F59E0B?style=for-the-badge&logo=rocket&logoColor=white" alt="Building useful software" /></a>
-  <a href="https://github.com/hctorfrrs17-tech?tab=repositories"><img src="https://img.shields.io/badge/Building-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Building with TypeScript" /></a>
   <a href="https://github.com/hctorfrrs17-tech"><img src="https://komarev.com/ghpvc/?username=hctorfrrs17-tech&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" /></a>
 </p>
 
