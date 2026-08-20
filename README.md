@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I’m hctor.tech 👋
+# hctor.tech 👋
 
 ### Building **open-source projects** and **useful software for everyday life**.
 
